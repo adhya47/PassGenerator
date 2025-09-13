@@ -1,0 +1,15 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adhya",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
